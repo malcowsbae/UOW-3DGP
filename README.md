@@ -2,7 +2,13 @@
 
 Using c++ and openGL
 
-# Setting the Glut Library
+### Setting the Glut Library
+
+```
+1. Goto Project properties.
+```
+<img src = "https://github.com/ANDREWDESILVASL/3D-Graphics-Programming/blob/master/Setup/Screenshots/Screenshot%20(89).png">
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Download the sample zip file.
