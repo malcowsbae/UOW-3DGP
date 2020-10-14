@@ -1,5 +1,9 @@
 # 3D-Graphics-Programming
-## Setting the Glut Library
+
+Using c++ and openGL
+
+# Setting the Glut Library
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Download the sample zip file.
 Extract the 3Dsample zip file.
