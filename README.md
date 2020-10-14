@@ -46,4 +46,4 @@ Now the Glut Library is all set.
 4. Again right click and Add->Existing item and add the tutorial file you want.
 ```
 
-Evrything setuped. 
+You're Good to Go !
