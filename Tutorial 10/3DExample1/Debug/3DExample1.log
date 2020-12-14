@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1069,5): warning MSB8027: Two or more files with the name of GLee.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\GLee.c, ..\shared\GLee.c.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  GLee.c
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\shared\GLee.c(9306,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\shared\GLee.c(9374,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GLee.c
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\GLee.c(9306,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\GLee.c(9374,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  tutorial10_Projection.cpp
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\tutorial10_Projection.cpp : fatal error C1073: Internal error involving incremental compilation(compiler file 'D:\agent\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\main.c', line 1030)
+  glm.cpp
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\shared\glm.cpp : fatal error C1073: Internal error involving incremental compilation(compiler file 'D:\agent\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\main.c', line 1030)
+  math3d.cpp
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\math3d.cpp : fatal error C1073: Internal error involving incremental compilation(compiler file 'D:\agent\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\main.c', line 1030)
+  gltools.cpp
+D:\Development Projects\3D Revision\3D Programming\Tutorial 10\gltools.cpp : fatal error C1073: Internal error involving incremental compilation(compiler file 'D:\agent\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\main.c', line 1030)
+  Generating Code...

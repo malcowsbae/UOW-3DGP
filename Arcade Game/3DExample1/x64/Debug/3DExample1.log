@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (3DExample1.vcxproj, Tutorial 02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(53,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(53,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(59,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(59,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(65,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(65,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(71,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\Game.cpp(71,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Components.cpp
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(267,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(270,21): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(271,24): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(285,42): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(286,46): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(308,42): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(309,46): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(333,42): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(334,46): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(348,42): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Development Projects\3D Revision\3D Programming\Arcade Game\3DExample1\Components.cpp(349,46): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating Code...
+  3DExample1.vcxproj -> D:\Development Projects\3D Revision\3D Programming\Arcade Game\x64\Debug\Arcade Game.exe

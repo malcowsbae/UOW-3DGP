@@ -1,0 +1,3 @@
+D:\Development Projects\3D Programming\3DExample1\x64\Debug\3DExample1.pdb
+D:\Development Projects\3D Programming\3DExample1\3DExample1\x64\Debug\3DExample1.exe
+D:\Development Projects\3D Programming\3DExample1\3DExample1\x64\Debug\3DExample1.pdb
